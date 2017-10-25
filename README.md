@@ -1,1 +1,2 @@
 # HELLOWORLD
+console.log("Test");
